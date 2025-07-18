@@ -16,11 +16,6 @@ Welcome to the **Animated Dog Face** project! This is a fun, interactive web app
 - **Vanilla JavaScript**
 - 🎵 Audio (MP3)
 
-## 🖼️ Preview
-
-![Dog Preview](https://owais41111.github.io/Dog-Mouse-Cursor-Follow/)
-
-> *Note: Add a `preview.png` screenshot or GIF of the project in action for better visibility!*
 
 ## 🚀 Getting Started
 
