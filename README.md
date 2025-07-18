@@ -18,7 +18,7 @@ Welcome to the **Animated Dog Face** project! This is a fun, interactive web app
 
 ## 🖼️ Preview
 
-![Dog Preview](Image" src="https://github.com/user-attachments/assets/b25c8cba-64c9-4b23-a37f-9a251c95ee1b)
+![Dog Preview](https://owais41111.github.io/Dog-Mouse-Cursor-Follow/)
 
 > *Note: Add a `preview.png` screenshot or GIF of the project in action for better visibility!*
 
